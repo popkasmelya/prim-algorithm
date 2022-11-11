@@ -1,1 +1,3 @@
-# prim-algorithm
+# prim-algorithm(WIP)
+
+tl;dr: Студенческий проект по дискретной математике с использованием Python
